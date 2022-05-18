@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To make git pages with react
+
+### 1. Download this repo
+
+### 2. `npm install` and `npm start`
+
+### 3. Create new repo in Git
+
+### 4. Add remote git and update to http
+https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
+
+### 5. Update package.json
+"homepage": "https://helloeujin.github.io/squid-game/"
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
