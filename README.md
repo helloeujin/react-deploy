@@ -16,6 +16,10 @@ https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-
 ### 5. Update package.json
 "homepage": "https://helloeujin.github.io/squid-game/"
 
+### 6. Once pushed, `npm run deploy`
+
+### 7. Go to Settings > Source
+Select `gh-pages`
 
 
 ## Available Scripts
